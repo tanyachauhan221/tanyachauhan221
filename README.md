@@ -6,14 +6,14 @@ I'm a management student interested in understanding how businesses work, how pe
 
 I'm particularly interested in **Human Resources and People Analytics**. I enjoy exploring business problems, learning new tools, and applying management concepts to practical situations.
 
- 🎯 Areas of Interest
+ 🎯 **Areas of Interest**
 - Learning & Development
 - Human Capital Management
 - People Analytics
 - Business Analysis
 - Data-Driven Decision-Making
 
- 🛠️ Skills & Tools
+ 🛠️ **Skills & Tools**
 - Microsoft Excel
 - Microsoft Power BI
 - Business Analysis
