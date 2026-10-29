@@ -1,4 +1,4 @@
-Hi, I'm Tanya Singh Chauhan! 👋
+**Hi, I'm Tanya Singh Chauhan! 👋**
 
 🎓 PGDM Student at Fortune Institute of International Business (FIIB)
 
